@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 from scipy import stats
 
-DATA = Path(__file__).parent / "data"
+DATA = Path(__file__).parent / "DATA"
 
 REGIMES = [
     ("1971-72 to 1990-91 | Pre-reform", 1971, 1990),
